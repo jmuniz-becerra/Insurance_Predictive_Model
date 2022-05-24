@@ -19,6 +19,8 @@ Future direction can be found in future direction section at the end of this REA
 
 **** FUTURE DIRECTION ****
 
+An obvious point of future direction is to continue the retreival of data for continous analysis.
+
 
 
 **** END OF FUTURE DIRECTION ****
