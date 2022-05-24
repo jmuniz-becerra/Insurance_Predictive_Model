@@ -7,7 +7,7 @@ To do so, I utlized the following features: age, sex, bmi, # of children, smoker
 
 **** NOTE **** 
 
-Granted this dataset is modest in size and supplied by Kaggle, here I demonstrate competency in data exploration, organizing and preparation for machine learning analysis.
+Granted this dataset is modest in size and supplied by Kaggle, here I intend to improve my skill and work towards competency in data exploration, organization, and preparation for machine learning analysis.
 
 Future direction can be found in future direction section at the end of this README file.
 
