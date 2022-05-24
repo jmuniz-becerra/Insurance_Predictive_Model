@@ -5,7 +5,7 @@ It's critical for an insurance company to be able to assess risk when onboarding
 
 To do so, I utlized the following features: age, gender, bmi, # of children, smoker, and region of the U.S. where insuree is from. I converted categorical information (gender, smoker y/n, region of residence) via 'LabelEncoder' from sklearn into numerical values for incorporation in analysis, and I utilized the LinearRegression module from sklearn to input features to predict price of medical charges. 
 
-In addition, data exploration was done to get a better understanding of the demographics of the insurees. The median age, median amount in medical charges, frequency of region of residence within the U.S., insight on average bmi, age and # of children were used for data exploration. The constructred report for data visualization can be found in the list of files for this repository, and the purpose of this report is to serve as a 
+In addition, data exploration was done to get a better understanding of the demographics of the insurees. The median age, median amount in medical charges, frequency of region of residence within the U.S., insight on average bmi, age and # of children were used for data exploration. The constructred report for data visualization can be found in the list of files for this repository, and the purpose of this report is to serve as a .....
 
 **** NOTE **** 
 
@@ -21,6 +21,6 @@ Future direction can be found in future direction section at the end of this REA
 
 An obvious point of future direction is to continue the retreival of data for continous analysis.
 
-
+..........
 
 **** END OF FUTURE DIRECTION ****
